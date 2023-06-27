@@ -1,3 +1,14 @@
 body {
-    background-color: aqua; /*test*/
+    background-color: rgb(215, 48, 48); /*test*/
 }
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    margin: 25% auto;
+    font-size: 60px;
+    color: whitesmoke;
+}
+
+
